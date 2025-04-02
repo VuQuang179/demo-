@@ -1,0 +1,9 @@
+int main()
+{
+	
+    printf("nhap diem trung binh: ");
+    float diemtrungbinh;
+    scanf("%f",&diemtrungbinh);
+    printf("diem trung binh la: %f",diemtrungbinh);
+    return 0;
+}
