@@ -8,3 +8,4 @@ int main()
     printf("diem trung binh la: %f",diemtrungbinh);
     return 0;
 }
+hhy
